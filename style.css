@@ -1,0 +1,33 @@
+body
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    background-image: url(1215995-gorgerous-4k-sunset-wallpaper-3840x2160-smartphone.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+margin: 0px;
+padding: 0px;
+
+}
+.form
+{
+    margin: auto;
+    width: 300px;
+    background-color: rgba(46, 86, 132, 0.417);
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.banner{
+    display: flex;
+    list-style: none;
+    position: absolute;
+    align-items: normal;
+    margin-left: 1000px;
+}
